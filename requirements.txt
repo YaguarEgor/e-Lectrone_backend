@@ -1,0 +1,8 @@
+fastapi
+SQLAlchemy
+uvicorn
+alembic
+asyncpg
+starlette
+openpyxl
+aiosqlite
